@@ -1,2 +1,11 @@
 .metadata
 .recommenders/caches
+Servers
+RemoteSystemsTempFiles
+.recommenders
+lesson-16/build
+lesson-16/.settings
+.classpath
+.project
+lesson-18/.settings
+lesson-18/build
