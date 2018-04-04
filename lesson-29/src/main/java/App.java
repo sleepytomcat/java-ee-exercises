@@ -10,6 +10,8 @@ public class App {
 		Organization org = (Organization) ctx.getBean("organization");
 		// call method
 		org.slogan();
+		// close context
+		((FileSystemXmlApplicationContext)ctx).close();
 	}
 
 }
